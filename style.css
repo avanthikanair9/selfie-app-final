@@ -1,0 +1,25 @@
+body
+{
+background: linear-gradient(#f78400 0%, #fd0800 100%);
+}
+#btn1
+{
+    width: 10%;
+    background-color: rgb(0, 255, 13);
+    color: black;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 100px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
